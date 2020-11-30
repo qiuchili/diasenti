@@ -47,7 +47,8 @@
       + RMFN
       + LMF
       + Vanilla-LSTHM
-    + Each model is only cmpatible with **dialogue_context = True** or **dialogue_context = False**. For this information, please see the respective block for each model. 
+      + QMN
+    + Each model is only compatible with **dialogue_context = True** or **dialogue_context = False**. For this information, please see the respective block for each model. 
   
 ### Grid Search for the Best Parameters
 1. Set up the configurations in config/grid_search.ini. Tweak a couple of fields in the single run configurations, as instructed below.
