@@ -7,7 +7,7 @@
 + Dialogue Datasets: https://www.dropbox.com/s/kojje169drighei/avec_iemocap_meld.zip?dl=0
   + Containing AVEC, IEMOCAP and MELD datasets
   + Datasets come from https://github.com/SenticNet/conv-emotion
-    + iemocap_data_original.pkl, meld_data_original.pkl and AVEC/* are original datasets in the github
+    + iemocap_data.pkl, meld_data_original.pkl and AVEC/* are original datasets in the github
     + iemocap_data_act.pkl and meld_data_act.pkl are the datasets with dialogue act annotations from https://github.com/bothe/EDAs
     + meld_data.pkl is the MELD dataset with dialogue act annotations and pretrained 300d visual features for each utterance
 
