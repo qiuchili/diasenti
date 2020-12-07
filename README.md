@@ -47,7 +47,7 @@
       + RMFN
       + LMF
       + Vanilla-LSTHM
-      + QMN
+      + QMN (QMNN)
     + Each model is only compatible with **dialogue_context = True** or **dialogue_context = False**. For this information, please see the respective block for each model. 
   
 ### Grid Search for the Best Parameters
